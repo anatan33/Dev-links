@@ -168,7 +168,7 @@ footer {
 
 /*midia queries*/
 
-@medea (min-width: 700px) {
+@media (min-width: 700px) {
   body {
     :root {
       --bg-url: url(./assets/bg-desktop.jpg);
